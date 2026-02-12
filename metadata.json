@@ -1,0 +1,5 @@
+{
+  "name": "Sistema Electoral - Colegio de Abogados de Quilmes",
+  "description": "Aplicación de gestión electoral para el seguimiento de padrones, votos proyectados (Lista Verde) y escrutinio en tiempo real, con reportes por referente y búsqueda avanzada.",
+  "requestFramePermissions": []
+}
